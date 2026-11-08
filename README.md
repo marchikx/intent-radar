@@ -1,5 +1,7 @@
 # Intent Radar (portfolio)
 
+[![CI](https://github.com/marchikx/intent-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/marchikx/intent-radar/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Small, **offline** Python library that turns Ashby-style job JSON into normalized leads, runs transparent rule gates, scores intent 0–100, and emits an **evidence passport** (quotes from the source document only).
 
 No live scraping, no client data, no production integrations — suitable for demos and technical interviews.
