@@ -1,0 +1,28 @@
+{
+  "boardName": "Synthetic Demo Board",
+  "jobs": [
+    {
+      "id": "demo-job-001",
+      "title": "Senior Workflow Automation Engineer",
+      "department": "Platform",
+      "teamName": "Acme Cloud Tools",
+      "employmentType": "FullTime",
+      "isRemote": true,
+      "locationName": "European Union",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "applyUrl": "https://example.invalid/jobs/demo-job-001/apply",
+      "jobUrl": "https://example.invalid/jobs/demo-job-001",
+      "descriptionHtml": "<p>We are looking for someone to build <strong>n8n</strong> and <strong>Python</strong> automations across our internal APIs.</p><p>Salary range $90,000 - $110,000 USD per year.</p>",
+      "compensation": {
+        "summaryComponents": [
+          {
+            "minValue": 90000,
+            "maxValue": 110000,
+            "currencyCode": "USD",
+            "compensationType": "Salary"
+          }
+        ]
+      }
+    }
+  ]
+}
